@@ -9,11 +9,7 @@ export const Home = () => {
           <ul className="content-list">
             <li className="content-list__item">
               <h2 className="title-2">Frontend</h2>
-              <p>JavaScript, TypeScript, ReactJS, Redux, HTML, CSS, TailwindCSS, StyledComponents</p>
-            </li>
-            <li className="content-list__item">
-              <h2 className="title-2">Backend</h2>
-              <p>NodeJS, MySQL, MongoDB, PHP, Laravel</p>
+              <p>My skills - JavaScript, TypeScript, ReactJS, Redux, HTML, CSS, TailwindCSS</p>
             </li>
           </ul>
         </div>

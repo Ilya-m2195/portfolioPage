@@ -1,6 +1,7 @@
 import img1 from '../img/projects/image_2023-08-31_14-29-27.png';
 import img2 from '../img/projects/image_2023-08-31_14-30-22.png';
 import img3 from '../img/projects/image_2023-08-31_14-32-18.png';
+import img4 from '../img/projects/photo_2023-08-31_20-58-52.jpg';
 
 
 export const projects = [
@@ -20,9 +21,16 @@ export const projects = [
   },
   {
     title: 'Social-network',
-    skills: 'React, react-hooks, redux, react-redux, HTML, CSS, JS',
+    skills: 'React, redux, HTML, CSS, JS',
     img: img3,
     link: '',
     done: 'development stage'
+  },
+  {
+    title: 'Portfolio',
+    skills: 'React, react-hooks, HTML, CSS, JS',
+    img: img4,
+    link: '',
+    done: 'completed'
   },
 ]

@@ -24,3 +24,7 @@
 	line-height: 1.2;
 	color: var(--project-card-text);
 }
+
+.project__opacity {
+	opacity: 0.6;
+}
